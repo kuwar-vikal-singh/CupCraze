@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749207290068",
+    "project_id": "cupcraze-ed1bd",
+    "storage_bucket": "cupcraze-ed1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749207290068:android:848d0c73395e0254b1bb41",
+        "android_client_info": {
+          "package_name": "com.axel.cupcraze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwyic09SeNDDUwRjpzCiygA5nWiiqlMsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
